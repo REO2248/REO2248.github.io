@@ -1,4 +1,8 @@
 @font-face {
-font-family: "sample";
+font-family: "PusKul";
 src: url(KCC-KP-PusKul-Medium-KP-2011KPS.woff);
+}
+
+h1 {
+  font-family: 'PusKul';
 }
